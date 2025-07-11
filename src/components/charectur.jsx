@@ -177,13 +177,13 @@ const Charectur = () => {
                         className="h-52 sm:h-72 md:h-[500px] w-full max-w-xs sm:max-w-md md:max-w-full"
                     >
                         {selectedAvatar === "wriothesley" ? (
-                            <Spline scene="https://prod.spline.design/5CCYMmSLWDvXz9fI/scene.splinecode" />
+                                 <Spline scene="https://prod.spline.design/DxLeTQRtk2qFEbhG/scene.splinecode" />
                         ) : selectedAvatar === "nuvelate" ? (
-                            <Spline scene="https://prod.spline.design/p08CS9AByaDHl754/scene.splinecode" />
+                            <Spline scene="https://prod.spline.design/LIeem8qRLZLQoIZm/scene.splinecode" />
                         ) : selectedAvatar === "FURENA" ? (
-                            <Spline scene="https://prod.spline.design/G8KKg2IQk5sh-S5L/scene.splinecode" />
+                            <Spline scene="https://prod.spline.design/zgcYZnI203NO37EM/scene.splinecode" />
                         ) : (
-                            <Spline scene="https://prod.spline.design/G8KKg2IQk5sh-S5L/scene.splinecode" />
+                            <Spline scene="https://prod.spline.design/G8KKg2IQkQw5vQ2F/scene.splinecode" />
                         )}
                     </div>
                 </motion.div>
